@@ -1,0 +1,13 @@
+C:\Users\10\Documents\Curso\BackEnd\ListaDeObjetos\bin\Debug\netcoreapp3.1\ListaDeObjetos.exe
+C:\Users\10\Documents\Curso\BackEnd\ListaDeObjetos\bin\Debug\netcoreapp3.1\ListaDeObjetos.deps.json
+C:\Users\10\Documents\Curso\BackEnd\ListaDeObjetos\bin\Debug\netcoreapp3.1\ListaDeObjetos.runtimeconfig.json
+C:\Users\10\Documents\Curso\BackEnd\ListaDeObjetos\bin\Debug\netcoreapp3.1\ListaDeObjetos.runtimeconfig.dev.json
+C:\Users\10\Documents\Curso\BackEnd\ListaDeObjetos\bin\Debug\netcoreapp3.1\ListaDeObjetos.dll
+C:\Users\10\Documents\Curso\BackEnd\ListaDeObjetos\bin\Debug\netcoreapp3.1\ListaDeObjetos.pdb
+C:\Users\10\Documents\Curso\BackEnd\ListaDeObjetos\obj\Debug\netcoreapp3.1\ListaDeObjetos.csprojAssemblyReference.cache
+C:\Users\10\Documents\Curso\BackEnd\ListaDeObjetos\obj\Debug\netcoreapp3.1\ListaDeObjetos.AssemblyInfoInputs.cache
+C:\Users\10\Documents\Curso\BackEnd\ListaDeObjetos\obj\Debug\netcoreapp3.1\ListaDeObjetos.AssemblyInfo.cs
+C:\Users\10\Documents\Curso\BackEnd\ListaDeObjetos\obj\Debug\netcoreapp3.1\ListaDeObjetos.csproj.CoreCompileInputs.cache
+C:\Users\10\Documents\Curso\BackEnd\ListaDeObjetos\obj\Debug\netcoreapp3.1\ListaDeObjetos.dll
+C:\Users\10\Documents\Curso\BackEnd\ListaDeObjetos\obj\Debug\netcoreapp3.1\ListaDeObjetos.pdb
+C:\Users\10\Documents\Curso\BackEnd\ListaDeObjetos\obj\Debug\netcoreapp3.1\ListaDeObjetos.genruntimeconfig.cache
