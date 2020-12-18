@@ -51,6 +51,24 @@ namespace ListaDeObjetos
             {
                 Console.WriteLine($"{item.Nome}");
             }
+
+            System.Threading.Thread.Sleep(7000);
+
+            Console.WriteLine($"\nLista de cartões");
+
+            List<Cartao> ct = new List<Cartao>();
+
+            ct.Add(new Cartao("Robert Sena", 1234, "Visa", 123));
+            ct.Add(new Cartao("Lucas Dias", 4321, "MasterCard", 321));
+
+            foreach (Cartao item in ct)
+            {
+                Console.ForegroundColor = ConsoleColor.Green;
+
+                Console.WriteLine($"Titular:{item.Titular} \nNúmero:{item.Numero} \nBandeira:{item.Bandeira} \nCVV:{item.Cvv}\n\n");
+                
+                Console.ResetColor();
+            }
         }
     }
 }
